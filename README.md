@@ -30,11 +30,11 @@ Mindset      │ clear thinking > clever coding
 
 ## what gets me excited
 
-- **AI & Machine Learning** — teaching machines to think
-- **Autonomous Systems** — robots, vehicles, agents that decide
-- **Data & Simulation** — building worlds for learning
-- **Beautiful Code** — that reads like poetry, runs like wind
-- **Real Problems** — not resume bullet points
+- **AI & Machine Learning**- teaching machines to think
+- **Autonomous Systems**- robots, vehicles, agents that decide
+- **Data & Simulation**- building worlds for learning
+- **Beautiful Code**- that reads like poetry, runs like wind
+- **Real Problems**- not resume bullet points
 
 ---
 
@@ -64,17 +64,9 @@ Mindset      │ clear thinking > clever coding
 
 ## let's build something
 
-- **explore my repos** — they show what i'm actually about
-- **read the code** — it's a conversation, not a lecture
-- **start a discussion** — ideas are free, momentum isn't
-- **collaborate** — two brains always win over one
+- **explore my repos**- they show what i'm actually about
+- **read the code**- it's a conversation, not a lecture
+- **start a discussion**- ideas are free, momentum isn't
+- **collaborate**- two brains always win over one
 
 ---
-
-<div align="center">
-
-**make something great today.** ⚡
-
-*not tomorrow. today.*
-
-</div>
