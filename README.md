@@ -42,7 +42,7 @@ Mindset      │ clear thinking > clever coding
 
 - grinding on **meaningful projects** that matter
 - exploring **practical AI** that works in the real world
-- always learning—because tech evolves, so do i
+- always learning-because tech evolves, so do i
 - open to **collaborating** on things that push boundaries
 - building the internet one commit at a time
 
