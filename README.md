@@ -1,6 +1,6 @@
 # hey, i'm ju-baer 👋
 
-> building things that work. writing code that matters. no fluff, just flow.
+> building things that work. 
 
 ---
 
