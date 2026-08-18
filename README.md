@@ -75,5 +75,11 @@ Databases    │ SQL, NoSQL, cloud — i know my way around
 
 <br/><br/>
 
+
+<img src="https://streak-stats.demolab.com?user=ju-baer&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
+
+<br/><br/>
+
+
 <img src="https://raw.githubusercontent.com/ju-baer/ju-baer/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 </div>
