@@ -44,6 +44,8 @@ Databases    │ SQL, NoSQL, cloud — i know my way around
 
 ---
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello!+It's+S+M+Jubaer" alt="Typing SVG" /></a>
+  
 <a href="https://ju-baer.github.io/"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=00D9FF" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/s-m-jubaer-1207b5332/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
 <a href="mailto:smjubaer.0.00@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
